@@ -1,6 +1,0 @@
-com\example\cloudrun\PubSubController.class
-com\example\cloudrun\Body$Message.class
-com\example\cloudrun\Body.class
-com\example\cloudrun\PubSubApplication.class
-com\example\storage\CloudStorageExample.class
-com\example\firestore\FirestoreExample.class
