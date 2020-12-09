@@ -43,7 +43,7 @@ import com.example.storage.CloudStorageExample;
 @RestController
 public class PubSubController {
 	
-	@Value("${output.bucket}")
+	@Value("${output.bucket.url}")
 	String outputBucket;
 	
 	@Autowired
